@@ -54,6 +54,7 @@ Awesome AI Tools of the Future
 - [Perplexity](https://www.perplexity.ai)
 - [YOU](https://you.com)
 - [Consensus](https://consensus.app/search/)
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 ### Community
 - [Hugging Face](https://huggingface.co)
